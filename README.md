@@ -1,5 +1,7 @@
 # CySA+ Practical Projects
 
+![LetsDefend Projects](https://github.com/prakharsec/Letsdefend-Projects/blob/main/letsdefend.png)
+
 This repository contains practical projects completed during my CySA+ learning path.
 
 ## Projects Included
